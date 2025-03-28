@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link {
+    margin-left: 60px;
+}
+
+
+.image {
+    width: 100%;
+    height: 500px;
+    background-image: url(../construction/images12.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 100px;
+}
+
+.image2 {
+    width: 100%;
+    height: 600px;
+    background-image: url(../construction/images14.jpg);
+    display: flex;
+    justify-content: space-evenly;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    align-items: center;
+    padding: 100px;
+}
+
+.class2 {
+    width: 100px;
+    height: 100px;
+
+}
+
+.class3 {
+    width: 50px;
+    height: 200px;
+}
+
+
+
+
+.classe {
+    width: 100%;
+    height: 500px;
+    background-color: black;
+}
+
+
+
+.d10{
+    width: 100px;
+    margin-top: 20PX;
+}
+
+.d11{
+    width: 10px;
+    margin-LEFT: 10PX;
+}
